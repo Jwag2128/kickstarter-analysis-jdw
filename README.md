@@ -17,12 +17,15 @@ o	The campaign data was broken down in two ways.  The first was All Theater Outc
 
 o	The goal of this analysis is to show the result of ALL Theater campaigns that took place based on what month the project was started.  The data will compare successful, failed and canceled outcomes.
 
+https://github.com/Jwag2128/kickstarter-analysis-jdw/blob/main/Theater_Outcomes_vs_Launch.png
+
+
 
 ### Analysis of Outcomes Based on Goals
 
 o	This part of the analysis focuses on only data for the Play subcategory.  This will compare the successful, failed and canceled outcomes in relation to how much their fundraising goal was and what percentage of the total outcomes they represent.  
 
-
+https://github.com/Jwag2128/kickstarter-analysis-jdw/blob/main/Outcomes_vs_Goals.png
 
 
 ### Challenges and Difficulties Encountered
